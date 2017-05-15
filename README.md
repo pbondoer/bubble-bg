@@ -11,5 +11,5 @@ A tiny JavaScript animated background with canvas.
 * Pure JavaScript, no dependencies
 
 ## License
-This project is licensed under the [GNU General Public License
-3.0](https://www.gnu.org/licenses/gpl-3.0.txt) or later.
+This project is licensed under the
+[Creative Commons Zero 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
