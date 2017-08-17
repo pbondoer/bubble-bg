@@ -1,7 +1,7 @@
 # bubble-bg [(live demo)](https://bondoer.fr/demos/bubble-bg)
 A tiny JavaScript animated background with canvas.
 
-![Screenshot](http://i.imgur.com/y0b1391.png)
+<a href="https://bondoer.fr/demos/bubble-bg/">![Screenshot](http://i.imgur.com/y0b1391.png)</a>
 
 ## Features
 * 4-color gradient
